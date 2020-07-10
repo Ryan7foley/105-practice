@@ -1,0 +1,23 @@
+/**** BASE STYLES *****/
+body {
+  font-family: 'Original Surfer', cursive;
+  padding: 40px;
+  background: url('../img/surfer-bg.png');
+  background-position: center;
+  background-size: cover;
+}
+body h1 {
+  font-size: 60px;
+  color: #2c3def
+}
+body h4 {
+  font-size: 30px;
+  color: black;
+}
+body p {
+  font-size: 20px;
+  color: white;
+}
+footer {
+  padding-top: 100px;
+}
